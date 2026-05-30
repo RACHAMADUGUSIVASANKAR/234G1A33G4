@@ -78,6 +78,10 @@ Filter notifications by:
 
 Top notifications are displayed based on calculated priority score.
 
+### Demo
+<img width="1910" height="837" alt="Screenshot 2026-05-30 125319" src="https://github.com/user-attachments/assets/a34d6a9c-e4b1-44ed-b687-5e66af52194f" />
+<img width="1893" height="856" alt="Screenshot 2026-05-30 125335" src="https://github.com/user-attachments/assets/aa738472-d3bb-42e9-a847-6d3cfa4d74d9" />
+
 ### Activity Tracking
 
 Application events are logged for monitoring.
